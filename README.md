@@ -1,4 +1,4 @@
-# JanataHack-Recommendation-Systems
+# Janatahack: Customer Segmentation
 Problem Statement:
 Your client is a fast-growing mobile platform, for hosting coding challenges. They have a unique business model, where they crowdsource problems from various creators(authors). These authors create the problem and release it on the client's platform. The users then select the challenges they want to solve. The authors make money based on the level of difficulty of their problems and how many users take up their challenge.
 
